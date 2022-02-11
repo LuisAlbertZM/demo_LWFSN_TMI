@@ -7,11 +7,15 @@ This repository contains replicates some of the relevant resolus shown in the pa
 3. Showing that the LWFSN is capable of reconstructing a given noisy image if the soft-shrinkage section is disabled
 
 
+
+
+
 ATTENTION
 
 At the moment the weights of FBPConvNet and the tight frame U-Net are not uploaded because the file-size is beyond what's allowed by gitHub. We are working out a solution to provide the weights in another way.
 
 The implementation of FBPConvNet was pereformed by adapting the U-Net implementation from the repository: https://github.com/jvanvugt/pytorch-unet
+
 
 
 ACKNOWLEDGEMENTS
