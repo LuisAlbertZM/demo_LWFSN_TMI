@@ -12,7 +12,10 @@ This repository contains replicates some of the relevant resolus shown in the pa
 
 ATTENTION
 
-At the moment the weights of FBPConvNet and the tight frame U-Net are not uploaded because the file-size is beyond what's allowed by gitHub. We are working out a solution to provide the weights in another way.
+At the moment the weights of FBPConvNet and the tight frame U-Net are not uploaded because the file-size is beyond what's allowed by gitHub. Still, you can find the demo running in IEEE's codeocean.
+
+<script src="https://codeocean.com/widget.js?slug=9027829" async></script>
+
 
 The implementation of FBPConvNet was pereformed by adapting the U-Net implementation from the repository: https://github.com/jvanvugt/pytorch-unet
 
